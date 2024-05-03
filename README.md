@@ -4,14 +4,14 @@
 
 
 <h1>Sobre Mi</h1>
-<p>me gusta mucho el mundo de la tecnologia y el desarrolo</p>
+<p>me gusta mucho el mundo de la tecnologia y el desarrolo,  </p>
 
 
 
 
-Here are some ideas to get you started:
 
-- 
+
+
 - 🌱
 - 🤔 
 - 💬 
