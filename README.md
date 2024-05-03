@@ -1,6 +1,6 @@
 ### Hola, Soy Sergio👋
 
-<img src="SergioVargas-banner.png" alt="imagen del banner">
+<img src="SergioVargas-banner.png">
 
 
 <h1>Sobre Mi</h1>
