@@ -1,6 +1,6 @@
 ### Hola, Soy Sergio👋
 
-<img src="SergioVargas-banner.png">
+<img src="https://github.com/SergioVargas22/SergioVargas22/assets/159498885/e64a7081-7caf-4a1f-8b9e-cf0017b47d76">
 
 <ol>
 <h1>#Sobre Mi</h1>
