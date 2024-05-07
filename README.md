@@ -1,6 +1,6 @@
 ### Hola, Soy Sergio👋
 
-<img src=https://github.com/SergioVargas22/SergioVargas22/issues/1#issue-2278250899>
+<img src="https://github.com/SergioVargas22/SergioVargas22/issues/1#issue-2278250899">
 
 <ol>
 <h1>#Sobre Mi</h1>
