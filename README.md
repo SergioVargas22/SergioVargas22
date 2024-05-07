@@ -5,7 +5,7 @@
 <ol>
 <h1>✅Sobre Mi</h1>
 <p>me gusta mucho el mundo de la tecnologia y el desarrolo, me dedico al estudio y aprender dia a dia mas sobre el desarrollo.
-mi mayor sueño es cumplir mis sueños a base de mi esfuerzo y dedicacion </p>
+mi mayor sueño es cumplir mis metas a base de mi esfuerzo y dedicacion </p>
 </ol>
 
 - 👨‍💻 Estudio ingenieria de sistemas 
